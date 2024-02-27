@@ -7,6 +7,7 @@ If you wish to create the Golang files from the upload_click_conversions.proto f
 
 After stage 4 the project directory should look like this:
 
+````
 <project_name>
 |
 ------ google
@@ -21,7 +22,7 @@ After stage 4 the project directory should look like this:
                |
                |
                 ------  upload_click_conversions.proto
-
+```
 
 5. Opening a terminal window at the project level above <project_name>, running the following command will generate the Go code within the <proto_folder_name> folder:
 
