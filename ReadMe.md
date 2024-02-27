@@ -7,7 +7,7 @@ If you wish to create the Golang files from the upload_click_conversions.proto f
 
 After stage 4 the project directory should look like this:
 
-````
+```
 <project_name>
 |
 ------ google
